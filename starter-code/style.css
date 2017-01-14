@@ -49,6 +49,12 @@
 			margin: 8%;
 			float: left;
 		}
+		img {
+			height: 200px;
+			width: 150px;
+			border: 1px;
+			border-radius: 10px;
+		}
 		.name {
 			color: #ff0000;
 		}
